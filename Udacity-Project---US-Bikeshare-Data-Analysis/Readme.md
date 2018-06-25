@@ -16,6 +16,7 @@
 - ./data/ contains the various datasets
 - ./examples/ contains an example of the data cleaning process
 - ./Bikeshare Project.ipynb is a Jupyter notebook containing the work I have done
+- ./bikeshare_2.py
 
 ## References & Citations
 - Data provided by [Motivate](https://www.motivateco.com/)
