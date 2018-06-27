@@ -129,6 +129,7 @@ def station_stats(df):
     
     # display most frequent combination of start station and end station trip
     pop_journey = df['Journey'].mode().to_string(index = False)
+    print('The most frequent combination of start station and end station trip:', pop_journey)
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
